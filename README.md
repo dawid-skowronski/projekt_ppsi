@@ -1,5 +1,5 @@
 # projekt_ppsi
-projekt na zaliczenie PPSI
+projekt na zaliczenie PPSI - Zgadywanka
 
 Członkowie grupy:  
 Dawid Skowroński 42764 s2PAM1  
